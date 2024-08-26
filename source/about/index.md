@@ -18,4 +18,4 @@ Python과 Go를 배우는 중입니다.
 
 아, 김연경 선수 닮았단 말 들어봤어요(자랑).
 
-✉️: seojung19@gmail.com
+email: seojung19@gmail.com
