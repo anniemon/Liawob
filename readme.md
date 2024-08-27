@@ -1,1 +1,1 @@
-블로그 주소: https://elephantrunk.netlify.app/
+제 손은 섬섬옥수입니다.
